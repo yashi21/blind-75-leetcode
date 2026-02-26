@@ -28,7 +28,7 @@ A curated list of the Blind 75 LeetCode problems for coding interviews. Fork thi
 ---
 
 ## Dynamic Programming
-- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
 - [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [ ] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
@@ -47,7 +47,7 @@ A curated list of the Blind 75 LeetCode problems for coding interviews. Fork thi
 - [x] [Course Schedule](https://leetcode.com/problems/course-schedule/)
 - [x] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 - [x] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
-- [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+- [x] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 - [ ] [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) *(LeetCode Premium)*
 - [x] [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) *(LeetCode Premium)*
 - [x] [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) *(LeetCode Premium)*
@@ -55,9 +55,9 @@ A curated list of the Blind 75 LeetCode problems for coding interviews. Fork thi
 ---
 
 ## Interval
-- [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/)
-- [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
-- [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
+- [x] [Insert Interval](https://leetcode.com/problems/insert-interval/)
+- [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [x] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 - [ ] [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) *(LeetCode Premium)*
 - [ ] [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) *(LeetCode Premium)*
 
@@ -74,8 +74,8 @@ A curated list of the Blind 75 LeetCode problems for coding interviews. Fork thi
 ---
 
 ## Matrix
-- [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
-- [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+- [x] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+- [x] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - [ ] [Rotate Image](https://leetcode.com/problems/rotate-image/)
 - [ ] [Word Search](https://leetcode.com/problems/word-search/)
 
